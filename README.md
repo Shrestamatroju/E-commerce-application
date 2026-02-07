@@ -1,4 +1,4 @@
-# 🛒 Full Stack E-commerce Application
+<img width="1120" height="271" alt="image" src="https://github.com/user-attachments/assets/49a81773-5376-4766-b40e-a834ab1d459b" /># 🛒 Full Stack E-commerce Application
 
 This is a full-stack e-commerce project with a user-facing frontend, an admin
 panel, and a backend server.
@@ -47,7 +47,7 @@ Server runs on: http://localhost:4000
 
     cd frontend
     npm install
-    npm start
+    node index.js
 
 Runs on: http://localhost:3000
 
