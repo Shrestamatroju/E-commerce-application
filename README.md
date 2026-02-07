@@ -33,7 +33,32 @@ panel, and a backend server.
 - admin – admin dashboard
 - backend – server and APIs
 
+## How to Run Locally
+
+### Backend
+
+    cd backend
+    npm install
+    npm start
+
+Server runs on: http://localhost:4000
+
+### Frontend
+
+    cd frontend
+    npm install
+    npm start
+
+Runs on: http://localhost:3000
+
+### Admin Panel
+
+    cd admin
+    npm install
+    npm run dev
 
 ## Status
 This project supports product browsing, cart functionality, and product
-management
+management.
+
+
